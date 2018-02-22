@@ -126,7 +126,7 @@
             this.ChangeLogList.FormattingEnabled = true;
             this.ChangeLogList.IntegralHeight = false;
             this.ChangeLogList.Location = new System.Drawing.Point(12, 85);
-            this.ChangeLogList.Name = "ChangeLogList";
+            this.ChangeLogList.Name = "Lista de Canciones";
             this.ChangeLogList.Size = new System.Drawing.Size(360, 327);
             this.ChangeLogList.TabIndex = 3;
             // 
