@@ -1,0 +1,8 @@
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\bin\Debug\ActualizarCancion.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\bin\Debug\ActualizarCancion.pdb
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.ActualizarCancionVDJ.resources
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\ActualizarCancion\ActualizarCancion\obj\x86\Debug\ActualizarCancion.pdb
