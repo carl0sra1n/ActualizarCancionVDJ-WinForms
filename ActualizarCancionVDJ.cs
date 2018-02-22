@@ -22,6 +22,8 @@ namespace ActualizarCancion
         /// </summary>
         public ActualizarCancionVDJ()
         {
+            MessageBox.Show("Recuerda que este programa funciona en conjunto con SAM Cast. Para mas información, por favor visita http://neteando.club", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+
             InitializeComponent();
 
             _watcher = new FileSystemWatcher();
